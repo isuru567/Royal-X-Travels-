@@ -22,6 +22,9 @@ This project is a comprehensive web platform developed to showcase travel packag
 * `About/` & `Contact/` - Company profile and lead generation forms.
 * `Assets/` - Managed repository for optimized icons, fonts, and images.
 
+## Project Preview
+
+  ![Project Screenshot](SS2.png)
   ![Project Screenshot](SS1.png)
 
 ---
